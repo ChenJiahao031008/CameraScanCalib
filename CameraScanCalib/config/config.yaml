@@ -1,0 +1,16 @@
+rgbd_cloud: "/home/chen/ros_active_SLAM/src/tools/RGBD2PointCloud/pcd/1647426177.828866838.pcd"
+scan_cloud: "/home/chen/ros_active_SLAM/src/tools/Scan2PointCloud/pcd/1647426176.507907915.pcd"
+
+header:
+  frame_id: base_scan
+  child_frame_id: rgbd
+transform:
+  rotation:
+    x: -0.51422
+    y: 0.468108
+    z: -0.481214
+    w: 0.533747
+  translation:
+    x: 0.109716
+    y: -0.093383
+    z: 0.275872
